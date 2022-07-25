@@ -10,7 +10,7 @@ permalink:        pretty
 
 # Setup
 title:            Data Science with R for the Life Sciences
-description:      'R Fun for Life!'
+description:      'R Fun for Life'
 url:              https://quantmarineecolab.github.io/data-science-biologists
 baseurl:          /data-science-biologists
 email:            easton.white@unh.edu
