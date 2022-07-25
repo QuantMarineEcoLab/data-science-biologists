@@ -9,18 +9,18 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists
-description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+title:            Data Science with R for the Life Sciences
+description:      'R Fun for Life!'
+url:              https://quantmarineecolab.github.io/data-science-biologists
+baseurl:          /data-science-biologists
+email:            easton.white@unh.edu
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Easton White'
+  url:            https://twitter.com/eastonrwhite
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/QuantMarineEcoLab/data-science-biologists/
   #               Be sure the 'Issues' feature is activated in 'Settings'
 
 plugins:
